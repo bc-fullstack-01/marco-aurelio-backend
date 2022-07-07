@@ -8,10 +8,10 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "Parte de backend do bootcamp sysmap",
-  "main": "express-server.js",
+  "main": "express-fs-static.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node express-server.js"
+    "start": "node express-fs-static.js"
   },
   "repository": {
     "type": "git",
